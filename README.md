@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @varshxv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hi, I’m @varshxv
+ I’m interested in BE CSE
+ I’m currently learning GITHUB
+ I’m looking to collaborate on software field
+ How to reach me The Nilgiris-Coonoor
 
-<!---
-varshxv/varshxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
